@@ -1,0 +1,30 @@
+{
+  "name": "fbgraph-feyx",
+  "version": "0.0.1",
+  "description": "Modified Facebook Graph API client",
+  "license": "MIT",
+  "keywords": [
+    "facebook",
+    "api",
+    "graph"
+  ],
+  "author": {
+    "name": "Markus Feiks",
+    "email": "markus@peaksandpies.com"
+  },
+  "main": "index",
+  "dependencies": {
+    "qs": "^6.5.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "vows": "^0.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mfeyx/fbgraph-feyx.git"
+  },
+  "engines": {
+    "node": ">= 0.4.1"
+  }
+}
